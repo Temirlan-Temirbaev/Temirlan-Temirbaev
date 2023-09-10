@@ -46,7 +46,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40">
-    <img src="https://zustand-demo.pmnd.rs/assets/bear-8ff11f9d.png" height="40" width="40" alt="zustand">
+    <a href=https://zustand-demo.pmnd.rs/" target="_blank">
+    <img src="https://zustand-demo.pmnd.rs/assets/bear-8ff11f9d.png" height="40" width="40" alt="zustand">      
+    </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     
@@ -55,8 +57,12 @@
 <div>
   Web 3.0 : 
   <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" width="40" height="40" alt="solidity" >
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MJj0GQDG--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5087/a22e0f35-f97b-4315-b0ca-7574cb45b73d.png" width="40" height="40" alt="thirdweb">
+    <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" width="40" height="40" alt="solidity" >   
+    </a>
+    <a href="https://thirdweb.com/" target="_blank">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MJj0GQDG--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-        uploads.s3.amazonaws.com/uploads/organization/profile_image/5087/a22e0f35-f97b-4315-b0ca-7574cb45b73d.png" width="40" height="40" alt="thirdweb">  
+    </a>
   </p>
 </div>
 <div>
