@@ -68,6 +68,6 @@
 <div>
   <p align="center">Certificates</p>
   <div>
-    <img src="[[https://photos.google.com/photo/AF1QipPAd4NOF56X0Lwecxb_TcgemiZnoRyXiyiTRMrw](https://photos.app.goo.gl/U1DzgmYwQdMdsymP7)](https://lh3.googleusercontent.com/pw/AIL4fc9llP5S8Zxpbd-6mxdwSvOqJi1RgDH6TdrdkFYWkJ0sovim6TJBTTv0HqE5SE28ZIljozIAZgi-fVqDXss8wHlpXTZS22p-ox8mBV-AuZzAQ4FBJ5F_Gk1HNyKcNS0-yBv0h3mYIZrtDwwhnb4nLRI=w2226-h1566-s-no?authuser=0)https://lh3.googleusercontent.com/pw/AIL4fc9llP5S8Zxpbd-6mxdwSvOqJi1RgDH6TdrdkFYWkJ0sovim6TJBTTv0HqE5SE28ZIljozIAZgi-fVqDXss8wHlpXTZS22p-ox8mBV-AuZzAQ4FBJ5F_Gk1HNyKcNS0-yBv0h3mYIZrtDwwhnb4nLRI=w2226-h1566-s-no?authuser=0" alt="binance hackathon certificate">
+    <img src="https://i.imgur.com/VB6Ik7W.png" alt="binance hackathon certificate">
   </div>
 </div>
