@@ -1,6 +1,6 @@
 <h1 align="center">My name is Temirbaev Temirlan</h1>
 <h3 align="center">14 years old Full-Stack developer from Kazakhstan, Semey</h3>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 - 🔭 I’m currently working on **InGameLeaders ( Faceit analogue )**
 
 - 🌱 I’m currently learning **VueJS, Deep TypeScript**
