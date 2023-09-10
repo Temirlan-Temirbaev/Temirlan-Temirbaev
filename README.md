@@ -61,7 +61,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" width="40" height="40" alt="solidity" >   
     </a>
     <a href="https://thirdweb.com/" target="_blank">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MJj0GQDG--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-        uploads.s3.amazonaws.com/uploads/organization/profile_image/5087/a22e0f35-f97b-4315-b0ca-7574cb45b73d.png" width="40" height="40" alt="thirdweb">  
+      <img src="[https://res.cloudinary.com/practicaldev/image/fetch/s--MJj0GQDG--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-        uploads.s3.amazonaws.com/uploads/organization/profile_image/5087/a22e0f35-f97b-4315-b0ca-7574cb45b73d.png](https://res.cloudinary.com/practicaldev/image/fetch/s--MJj0GQDG--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5087/a22e0f35-f97b-4315-b0ca-7574cb45b73d.png)" width="40" height="40" alt="thirdweb">  
     </a>
   </p>
 </div>
