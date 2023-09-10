@@ -68,6 +68,6 @@
 <div>
   <p align="center">Certificates</p>
   <div>
-    <img src="https://photos.google.com/photo/AF1QipPAd4NOF56X0Lwecxb_TcgemiZnoRyXiyiTRMrw" alt="binance hackathon certificate">
+    <img src="[https://photos.google.com/photo/AF1QipPAd4NOF56X0Lwecxb_TcgemiZnoRyXiyiTRMrw](https://photos.app.goo.gl/U1DzgmYwQdMdsymP7)" alt="binance hackathon certificate">
   </div>
 </div>
