@@ -1,6 +1,5 @@
 <h1 align="center">My name is Temirbaev Temirlan</h1>
 <h3 align="center">14 years old Full-Stack developer from Kazakhstan, Semey</h3>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 - 🔭 I’m currently working on **InGameLeaders ( Faceit analogue )**
 
 - 🌱 I’m currently learning **VueJS, Deep TypeScript**
@@ -22,7 +21,6 @@
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     
-            <i class="devicon-sequelize-plain"></i>
         
   </p>
 </div>
