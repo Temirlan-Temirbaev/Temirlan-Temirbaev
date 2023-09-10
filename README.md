@@ -56,6 +56,7 @@
   Web 3.0 : 
   <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" width="40" height="40" alt="solidity" >
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MJj0GQDG--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5087/a22e0f35-f97b-4315-b0ca-7574cb45b73d.png" width="40" height="40" alt="thirdweb">
   </p>
 </div>
 <div>
