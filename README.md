@@ -1,4 +1,4 @@
-<h1 align="center">My name is Temirbaev Temirlan</h1>
+<h1 align="center">My name is Temirlan</h1>
 <h3 align="center">14 years old Full-Stack developer from Kazakhstan, Semey</h3>
 - 🔭 I’m currently working on **InGameLeaders ( Faceit analogue )**
 
