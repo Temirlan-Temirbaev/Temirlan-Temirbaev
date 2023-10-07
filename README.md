@@ -1,5 +1,5 @@
 <h1 align="center">My name is Temirlan</h1>
-<h3 align="center">14 years old Full-Stack developer from Kazakhstan, Semey</h3>
+<h3 align="center">15 years old Full-Stack developer from Kazakhstan, Semey</h3>
 - 🔭 I’m currently working on **InGameLeaders ( Faceit analogue )**
 
 - 🌱 I’m currently learning **VueJS, Deep TypeScript**
