@@ -1,13 +1,7 @@
 <h1 align="center">My name is Temirlan</h1>
 <h3 align="center">15 years old Full-Stack developer from Kazakhstan, Semey</h3>
-- 🔭 I’m currently working on **InGameLeaders ( Faceit analogue )**
-
-- 🌱 I’m currently learning **VueJS, Deep TypeScript**
-
+- 🌱 I’m currently learning **GoLang**
 - 📫 How to reach me **Telegram : @FooFie213**
-
-- 📄 Know about my experiences : I'm learning programming since I was 12, After I've won Hackathon and get in touch with my teamlead, I participated in other hackathon organised by Binance, BNB Chain (Decentrathon May 2023) and got offer :)
-
 <h3 align="left">Languages and Tools:</h3>
 <div>Mobile development : <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -72,5 +66,6 @@
   <p align="center">Certificates</p>
   <div>
     <img src="https://i.imgur.com/VB6Ik7W.png" alt="binance hackathon certificate">
+    <img src="https://i.imgur.com/goap2u3_d.webp?maxwidth=760&fidelity=grand" alt="certificate for bootcamp project">
   </div>
 </div>
